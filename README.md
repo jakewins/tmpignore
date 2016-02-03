@@ -14,7 +14,7 @@ project, simply package the project with maven:
     mvn clean package
 
 This will produce a jar-file,`target/procedure-template-1.0.0-SNAPSHOT.jar`,
-that can be deployed in the `plugin` directory of your Neo4j instance.
+that can be deployed in the `plugins` directory of your Neo4j instance.
 
 ## License
 
